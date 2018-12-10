@@ -19,8 +19,8 @@ Page({
 
  onShareAppMessage: function() {
   return {
-   title: '三玖小店',
-   desc: '三玖小店～',
+   title: '三玖商城',
+   desc: '三玖商城',
    path: '/pages/index/index'
   }
  },
