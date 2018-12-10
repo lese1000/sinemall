@@ -10,7 +10,7 @@
 
 .cate-nav-body{
     height: 84rpx;
-    white-space: nowrap;   
+    white-space: nowrap;
     background: #fff;
     border-top: 1px solid rgba(0,0,0,.15);
     overflow: hidden;
@@ -101,7 +101,7 @@
   height: 35rpx;
   margin: 11.5rpx 0 22rpx 0;
   text-align: center;
-  overflow: hidden;
+  /* overflow: hidden; */
   padding: 0 20rpx;
   font-size: 30rpx;
   color: #333;
